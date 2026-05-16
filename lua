@@ -86,7 +86,7 @@ end
 -- SMOOTH PURPLE GRADIENT UI
 local bg = GradientBox(pos.X,pos.Y,frameW,frameH,darkPurple,medPurple)
 local topBar = GradientBox(pos.X,pos.Y,frameW,40,medPurple,lightPurple)
-local title = SmoothText("HYPER SPIN + VOID",18,pos.X+20,pos.Y+12,accentPurple)
+local title = SmoothText("lethalWare UE Lua",18,pos.X+20,pos.Y+12,accentPurple)
 
 -- SINGLE TOGGLE BUTTON (for both spin and void)
 local toggleBtn = GradientBox(pos.X+20,pos.Y+60,310,40,medPurple,lightPurple)
