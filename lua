@@ -5,9 +5,9 @@ local player = Players.LocalPlayer
 
 -- SETTINGS
 local systemEnabled = false  -- Single toggle for both spin and void
-local intensity = 10.0
+local intensity = 250.0
 local minIntensity = 1.0
-local maxIntensity = 100.0
+local maxIntensity = 500.0
 local toggleKey = Enum.KeyCode.P
 local changingKey = false
 
