@@ -1,2 +1,2 @@
-# ai-slop-lua-for-ue
-its simple
+# LethalWare Lua for UE
+it's not the best but it helps
